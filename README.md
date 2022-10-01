@@ -4,6 +4,7 @@ Cleaning of the [TeDDi](https://github.com/MorphDiv/TeDDi_sample) corpus: script
 
 # How to use
 Most of scripts require a Python library [Polyglot](https://polyglot.readthedocs.io/en/latest/):
+
 Install it first:
 ```
 pip install polyglot
